@@ -1,0 +1,315 @@
+=======
+20epochs_10batch
+TN: 1
+FN: 1
+TP: 27
+FP: 30
+TPR: 0.9642857142857143
+FPR: 0.967741935483871
+accuracy: 0.475
+specitivity: 0.032
+sensitivity : 0.964
+mcc : -0.01
+              precision    recall  f1-score   support
+
+           0       1.00      0.03      0.06        31
+           1       0.47      1.00      0.64        27
+
+    accuracy                           0.48        58
+   macro avg       0.74      0.52      0.35        58
+weighted avg       0.75      0.48      0.33        58
+=======
+=======
+20epochs_10batch
+TN: 21
+FN: 21
+TP: 6
+FP: 10
+TPR: 0.2222222222222222
+FPR: 0.3225806451612903
+accuracy: 0.466
+specitivity: 0.677
+sensitivity : 0.222
+mcc : -0.112
+              precision    recall  f1-score   support
+
+           0       0.50      0.68      0.58        31
+           1       0.38      0.22      0.28        27
+
+    accuracy                           0.47        58
+   macro avg       0.44      0.45      0.43        58
+weighted avg       0.44      0.47      0.44        58
+=======
+=======
+20epochs_10batch
+TN: 19
+FN: 14
+TP: 13
+FP: 12
+TPR: 0.48148148148148145
+FPR: 0.3870967741935484
+accuracy: 0.552
+specitivity: 0.613
+sensitivity : 0.481
+mcc : 0.095
+              precision    recall  f1-score   support
+
+           0       0.58      0.61      0.59        31
+           1       0.52      0.48      0.50        27
+
+    accuracy                           0.55        58
+   macro avg       0.55      0.55      0.55        58
+weighted avg       0.55      0.55      0.55        58
+=======
+=======
+20epochs_10batch
+TN: 2
+FN: 1
+TP: 26
+FP: 29
+TPR: 0.9629629629629629
+FPR: 0.9354838709677419
+accuracy: 0.483
+specitivity: 0.065
+sensitivity : 0.963
+mcc : 0.062
+              precision    recall  f1-score   support
+
+           0       0.67      0.06      0.12        31
+           1       0.47      0.96      0.63        27
+
+    accuracy                           0.48        58
+   macro avg       0.57      0.51      0.38        58
+weighted avg       0.58      0.48      0.36        58
+=======
+=======
+20epochs_10batch
+TN: 14
+FN: 13
+TP: 14
+FP: 17
+TPR: 0.5185185185185185
+FPR: 0.5483870967741935
+accuracy: 0.483
+specitivity: 0.452
+sensitivity : 0.519
+mcc : -0.03
+              precision    recall  f1-score   support
+
+           0       0.52      0.45      0.48        31
+           1       0.45      0.52      0.48        27
+
+    accuracy                           0.48        58
+   macro avg       0.49      0.49      0.48        58
+weighted avg       0.49      0.48      0.48        58
+=======
+=======
+20epochs_10batch
+TN: 2
+FN: 4
+TP: 23
+FP: 29
+TPR: 0.8518518518518519
+FPR: 0.9354838709677419
+accuracy: 0.431
+specitivity: 0.065
+sensitivity : 0.852
+mcc : -0.137
+              precision    recall  f1-score   support
+
+           0       0.33      0.06      0.11        31
+           1       0.44      0.85      0.58        27
+
+    accuracy                           0.43        58
+   macro avg       0.39      0.46      0.35        58
+weighted avg       0.38      0.43      0.33        58
+=======
+=======
+20epochs_10batch
+TN: 77
+FN: 72
+TP: 90
+FP: 71
+TPR: 0.5555555555555556
+FPR: 0.4797297297297297
+accuracy: 0.539
+specitivity: 0.52
+sensitivity : 0.556
+mcc : 0.076
+              precision    recall  f1-score   support
+
+           0       0.52      0.52      0.52       148
+           1       0.56      0.56      0.56       162
+
+    accuracy                           0.54       310
+   macro avg       0.54      0.54      0.54       310
+weighted avg       0.54      0.54      0.54       310
+=======
+=======
+20epochs_10batch
+TN: 65
+FN: 52
+TP: 100
+FP: 93
+TPR: 0.6578947368421053
+FPR: 0.5886075949367089
+accuracy: 0.532
+specitivity: 0.411
+sensitivity : 0.658
+mcc : 0.071
+              precision    recall  f1-score   support
+
+           0       0.56      0.41      0.47       158
+           1       0.52      0.66      0.58       152
+
+    accuracy                           0.53       310
+   macro avg       0.54      0.53      0.53       310
+weighted avg       0.54      0.53      0.53       310
+=======
+=======
+20epochs_10batch
+TN: 95
+FN: 89
+TP: 71
+FP: 55
+TPR: 0.44375
+FPR: 0.36666666666666664
+accuracy: 0.535
+specitivity: 0.633
+sensitivity : 0.444
+mcc : 0.078
+              precision    recall  f1-score   support
+
+           0       0.52      0.63      0.57       150
+           1       0.56      0.44      0.50       160
+
+    accuracy                           0.54       310
+   macro avg       0.54      0.54      0.53       310
+weighted avg       0.54      0.54      0.53       310
+=======
+=======
+20epochs_10batch
+TN: 78
+FN: 100
+TP: 60
+FP: 72
+TPR: 0.375
+FPR: 0.48
+accuracy: 0.445
+specitivity: 0.52
+sensitivity : 0.375
+mcc : -0.106
+              precision    recall  f1-score   support
+
+           0       0.44      0.52      0.48       150
+           1       0.45      0.38      0.41       160
+
+    accuracy                           0.45       310
+   macro avg       0.45      0.45      0.44       310
+weighted avg       0.45      0.45      0.44       310
+=======
+=======
+20epochs_10batch
+TN: 20
+FN: 15
+TP: 12
+FP: 11
+TPR: 0.4444444444444444
+FPR: 0.3548387096774194
+accuracy: 0.552
+specitivity: 0.645
+sensitivity : 0.444
+mcc : 0.091
+              precision    recall  f1-score   support
+
+           0       0.57      0.65      0.61        31
+           1       0.52      0.44      0.48        27
+
+    accuracy                           0.55        58
+   macro avg       0.55      0.54      0.54        58
+weighted avg       0.55      0.55      0.55        58
+=======
+=======
+20epochs_10batch
+TN: 9
+FN: 6
+TP: 21
+FP: 22
+TPR: 0.7777777777777778
+FPR: 0.7096774193548387
+accuracy: 0.517
+specitivity: 0.29
+sensitivity : 0.778
+mcc : 0.078
+              precision    recall  f1-score   support
+
+           0       0.60      0.29      0.39        31
+           1       0.49      0.78      0.60        27
+
+    accuracy                           0.52        58
+   macro avg       0.54      0.53      0.50        58
+weighted avg       0.55      0.52      0.49        58
+=======
+=======
+20epochs_10batch
+TN: 1
+FN: 3
+TP: 24
+FP: 30
+TPR: 0.8888888888888888
+FPR: 0.967741935483871
+accuracy: 0.431
+specitivity: 0.032
+sensitivity : 0.889
+mcc : -0.155
+              precision    recall  f1-score   support
+
+           0       0.25      0.03      0.06        31
+           1       0.44      0.89      0.59        27
+
+    accuracy                           0.43        58
+   macro avg       0.35      0.46      0.32        58
+weighted avg       0.34      0.43      0.31        58
+=======
+=======
+20epochs_10batch
+TN: 34
+FN: 23
+TP: 32
+FP: 31
+TPR: 0.5818181818181818
+FPR: 0.47692307692307695
+accuracy: 0.55
+specitivity: 0.523
+sensitivity : 0.582
+mcc : 0.105
+              precision    recall  f1-score   support
+
+           0       0.60      0.52      0.56        65
+           1       0.51      0.58      0.54        55
+
+    accuracy                           0.55       120
+   macro avg       0.55      0.55      0.55       120
+weighted avg       0.56      0.55      0.55       120
+=======
+=======
+20epochs_10batch
+TN: 29
+FN: 41
+TP: 85
+FP: 91
+TPR: 0.6746031746031746
+FPR: 0.7583333333333333
+accuracy: 0.463
+specitivity: 0.242
+sensitivity : 0.675
+mcc : -0.093
+              precision    recall  f1-score   support
+
+           0       0.41      0.24      0.31       120
+           1       0.48      0.67      0.56       126
+
+    accuracy                           0.46       246
+   macro avg       0.45      0.46      0.43       246
+weighted avg       0.45      0.46      0.44       246
+=======
